@@ -1,2 +1,1 @@
-# Pygame-Template
-A basic template you can build upon for the popular python module "pygame".
+A basic sudoku board generator made in python using the pygame module.
